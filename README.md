@@ -7,5 +7,6 @@
 
 ## 2. About the Data
 For this project, a sample Walmart datasset was used.
-The dataset includes tables store, product, inventory, sales and calendar. These are the tables from operational databases:
+
+The dataset includes tables *store*, *product*, *inventory*, sales and calendar. These are the tables from operational databases:
 ![os_db_walmart](https://user-images.githubusercontent.com/74939090/198202564-00ef07a8-2f4f-4899-a6c2-66b498a0e5b4.jpg)
