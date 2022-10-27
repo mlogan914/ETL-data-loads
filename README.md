@@ -1,4 +1,4 @@
-# ini Project--ETL and Data Loads using Snowflake via DBeaver
+# Mini Project--ETL and Data Loads using Snowflake via DBeaver
 
 ## 1. Project Description
 - Step 1: Build the schema for the original system datasets & Create a data warehouse model in Snowflake.
