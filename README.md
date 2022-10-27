@@ -24,6 +24,6 @@ The dataset includes tables **store**, **product**, **inventory**, **sales** and
     - **in_of_stock_times:** During one week, how many times when the in_of_stock_flg is True.
     - **low_stock_times:** During one week, how many times when the low_stock_flg is True.
    
-## 3. Poject Model
+## 3. Project Model
 The data model of the project has 3 dimension tables and 2 fact tables (one for daily, one for weekly):
 ![data_model_walmat](https://user-images.githubusercontent.com/74939090/198205038-2e4de761-4070-43a9-9889-65c9ed21e9c3.jpg)
