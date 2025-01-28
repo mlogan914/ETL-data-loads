@@ -1,4 +1,4 @@
-# Mini Project - ETL and Data Loads using Snowflake
+# Mini Project: ETL and Data Loads using Snowflake
 
 ## 1. Project Description
 - Step 1: Based on the business requierments, build the schema for the original system datasets & Create a data warehouse model in Snowflake.
